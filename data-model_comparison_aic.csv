@@ -1,0 +1,5 @@
+Model,Parameters,LogLikelihood,AIC,BIC,Delta_AIC_vs_Baseline,OOS_Zebrafish_Heart_Phi,Decision
+Baseline,7,-18.4,50.8,56.2,0.0,0.862,Reference
+Extended_A_Sx B,8,-12.1,40.2,46.5,-10.6,0.871,ACCEPTED
+Extended_B_MxT,8,-17.8,49.6,55.9,-1.2,0.863,REJECTED
+Full_SxB_MxT,9,-11.9,41.8,49.1,-9.0,0.874,REJECTED_overfitting
