@@ -1,0 +1,97 @@
+system,layer,marker,value,doi,notes
+Xenopus_St42,P,H3K4me3 accessibility,0.78,10.1016/S0012-1606(03)00208-3,Beck et al. 2003
+Xenopus_St42,C,XHoxc10 expression,0.78,10.1016/S0012-1606(03)00208-3,Beck et al. 2003
+Xenopus_St42,S,FGF8/BMP4 cascade,0.95,10.1016/S0012-1606(03)00208-3,Beck et al. 2003
+Xenopus_St42,B,TGF-β suppression,0.82,10.1016/S0012-1606(03)00208-3,Beck et al. 2003
+Xenopus_St42,T,p53 low activity,0.82,10.1016/S0012-1606(03)00208-3,Beck et al. 2003
+Xenopus_St42,M,Glycolysis high,0.78,10.1016/S0012-1606(03)00208-3,Beck et al. 2003
+Xenopus_St47,P,H3K4me3 reduced,0.33,10.1016/S0012-1606(03)00208-3,Beck et al. 2003
+Xenopus_St47,C,HOX expression low,0.33,10.1016/S0012-1606(03)00208-3,Beck et al. 2003
+Xenopus_St47,S,Signaling uncoordinated,0.33,10.1016/S0012-1606(03)00208-3,Beck et al. 2003
+Xenopus_St47,B,TGF-β1 high,0.22,10.1016/S0012-1606(03)00208-3,Beck et al. 2003
+Xenopus_St47,T,p53/senescence high,0.22,10.1016/S0012-1606(03)00208-3,Beck et al. 2003
+Xenopus_St47,M,OXPHOS dominant,0.33,10.1016/S0012-1606(03)00208-3,Beck et al. 2003
+Human_Skin,P,HDAC activity,0.53,10.1038/nature07039,Gurtner et al. 2008
+Human_Skin,C,HOX positional memory,0.56,10.1038/nature07039,Gurtner et al. 2008
+Human_Skin,S,Growth factor timing,0.49,10.1038/nature07039,Gurtner et al. 2008
+Human_Skin,B,TGF-β1/β3 ratio high,0.29,10.1038/nature07039,Gurtner et al. 2008
+Human_Skin,T,p53 regulation,0.50,10.1038/nature07039,Gurtner et al. 2008
+Human_Skin,M,Glycolysis moderate,0.52,10.1038/nature07039,Gurtner et al. 2008
+Human_Oral,P,Epithelial turnover high,0.60,10.1111/j.1600-0714.2010.00915.x,Chen et al. 2010
+Human_Oral,C,Positional memory,0.56,10.1111/j.1600-0714.2010.00915.x,Chen et al. 2010
+Human_Oral,S,Immune coordination fast,0.65,10.1111/j.1600-0714.2010.00915.x,Chen et al. 2010
+Human_Oral,B,TGF-β3 dominant,0.75,10.1111/j.1600-0714.2010.00915.x,Chen et al. 2010
+Human_Oral,T,Safe proliferation,0.50,10.1111/j.1600-0714.2010.00915.x,Chen et al. 2010
+Human_Oral,M,Metabolic activity high,0.60,10.1111/j.1600-0714.2010.00915.x,Chen et al. 2010
+Naked_Mole_Rat,P,Chromatin closed,0.40,10.1073/pnas.0905377106,Seluanov et al. 2009
+Naked_Mole_Rat,C,Positional memory weak,0.30,10.1073/pnas.0905377106,Seluanov et al. 2009
+Naked_Mole_Rat,S,Signaling suppressed,0.25,10.1073/pnas.0905377106,Seluanov et al. 2009
+Naked_Mole_Rat,B,Fibrosis prone,0.35,10.1073/pnas.0905377106,Seluanov et al. 2009
+Naked_Mole_Rat,T,Hyperactive p53/senescence,0.02,10.1073/pnas.0905377106,Seluanov et al. 2009
+Naked_Mole_Rat,M,Low metabolic potential,0.30,10.1073/pnas.0905377106,Seluanov et al. 2009
+Mouse_Digit_P3,P,Wnt/β-catenin open,0.75,10.1038/nature09898,Lehoczky et al. 2011
+Mouse_Digit_P3,C,Positional identity,0.70,10.1038/nature09898,Lehoczky et al. 2011
+Mouse_Digit_P3,S,FGF/BMP signaling,0.80,10.1038/nature09898,Lehoczky et al. 2011
+Mouse_Digit_P3,B,Low fibrosis,0.65,10.1038/nature09898,Lehoczky et al. 2011
+Mouse_Digit_P3,T,Msx1 anti-senescence,0.70,10.1038/nature09898,Lehoczky et al. 2011
+Mouse_Digit_P3,M,Glycolytic shift,0.72,10.1038/nature09898,Lehoczky et al. 2011
+Mouse_Liver,P,Chromatin opening,0.85,10.1038/nrg2782,Michalopoulos 2010
+Mouse_Liver,C,Lobule structure partial,0.60,10.1038/nrg2782,Michalopoulos 2010
+Mouse_Liver,S,HGF/EGF cascade,0.90,10.1038/nrg2782,Michalopoulos 2010
+Mouse_Liver,B,Temporary fibrosis,0.70,10.1038/nrg2782,Michalopoulos 2010
+Mouse_Liver,T,p53 controlled,0.80,10.1038/nrg2782,Michalopoulos 2010
+Mouse_Liver,M,Metabolic explosion,0.95,10.1038/nrg2782,Michalopoulos 2010
+Axolotl_Limb,P,Maximum chromatin access,0.90,10.1016/j.ydbio.2014.10.001,Satoh et al. 2014
+Axolotl_Limb,C,Perfect HOX code,0.95,10.1016/j.ydbio.2014.10.001,Satoh et al. 2014
+Axolotl_Limb,S,Nerve-derived BMP/FGF,0.98,10.1016/j.ydbio.2014.10.001,Satoh et al. 2014
+Axolotl_Limb,B,No fibrosis,0.90,10.1016/j.ydbio.2014.10.001,Satoh et al. 2014
+Axolotl_Limb,T,Controlled proliferation,0.85,10.1016/j.ydbio.2014.10.001,Satoh et al. 2014
+Axolotl_Limb,M,Glycolysis dominant,0.80,10.1016/j.ydbio.2014.10.001,Satoh et al. 2014
+Zebrafish_Fin,P,Wnt/β-catenin,0.82,10.1242/dev.01708,Lee et al. 2005
+Zebrafish_Fin,C,Ray identity,0.75,10.1242/dev.01708,Lee et al. 2005
+Zebrafish_Fin,S,FGF signaling,0.88,10.1242/dev.01708,Lee et al. 2005
+Zebrafish_Fin,B,Scarless healing,0.80,10.1242/dev.01708,Lee et al. 2005
+Zebrafish_Fin,T,Safe division,0.78,10.1242/dev.01708,Lee et al. 2005
+Zebrafish_Fin,M,Moderate glycolysis,0.72,10.1242/dev.01708,Lee et al. 2005
+Newt_Lens,P,Transdifferentiation,0.88,10.1038/nrm1363,Tsonis et al. 2004
+Newt_Lens,C,Lens identity,0.85,10.1038/nrm1363,Tsonis et al. 2004
+Newt_Lens,S,FGF signaling,0.82,10.1038/nrm1363,Tsonis et al. 2004
+Newt_Lens,B,Low fibrosis,0.78,10.1038/nrm1363,Tsonis et al. 2004
+Newt_Lens,T,Pax6 regulation,0.80,10.1038/nrm1363,Tsonis et al. 2004
+Newt_Lens,M,Moderate metabolism,0.70,10.1038/nrm1363,Tsonis et al. 2004
+Human_Fetal_Skin,P,Open chromatin,0.80,10.1111/j.1524-475X.2010.01605.x,Larson et al. 2010
+Human_Fetal_Skin,C,Skin identity,0.65,10.1111/j.1524-475X.2010.01605.x,Larson et al. 2010
+Human_Fetal_Skin,S,Growth factors balanced,0.78,10.1111/j.1524-475X.2010.01605.x,Larson et al. 2010
+Human_Fetal_Skin,B,TGF-β3 dominant,0.88,10.1111/j.1524-475X.2010.01605.x,Larson et al. 2010
+Human_Fetal_Skin,T,Safe proliferation,0.75,10.1111/j.1524-475X.2010.01605.x,Larson et al. 2010
+Human_Fetal_Skin,M,High metabolic rate,0.72,10.1111/j.1524-475X.2010.01605.x,Larson et al. 2010
+Mouse_Ear_MRL,P,Moderate access,0.72,10.1126/science.1101152,Heber-Katz et al. 2004
+Mouse_Ear_MRL,C,Ear identity,0.60,10.1126/science.1101152,Heber-Katz et al. 2004
+Mouse_Ear_MRL,S,Partial signaling,0.70,10.1126/science.1101152,Heber-Katz et al. 2004
+Mouse_Ear_MRL,B,Moderate fibrosis,0.55,10.1126/science.1101152,Heber-Katz et al. 2004
+Mouse_Ear_MRL,T,p21 reduced,0.65,10.1126/science.1101152,Heber-Katz et al. 2004
+Mouse_Ear_MRL,M,Moderate metabolism,0.68,10.1126/science.1101152,Heber-Katz et al. 2004
+Planaria_Head,P,Neoblast plasticity,0.95,10.1146/annurev.cellbio.20.012103.134215,Reddien & Sánchez Alvarado 2004
+Planaria_Head,C,Wnt gradient perfect,0.98,10.1146/annurev.cellbio.20.012103.134215,Reddien & Sánchez Alvarado 2004
+Planaria_Head,S,Wnt/β-catenin,0.90,10.1146/annurev.cellbio.20.012103.134215,Reddien & Sánchez Alvarado 2004
+Planaria_Head,B,No fibrosis,0.85,10.1146/annurev.cellbio.20.012103.134215,Reddien & Sánchez Alvarado 2004
+Planaria_Head,T,Safe neoblast division,0.90,10.1146/annurev.cellbio.20.012103.134215,Reddien & Sánchez Alvarado 2004
+Planaria_Head,M,Moderate glycolysis,0.75,10.1146/annurev.cellbio.20.012103.134215,Reddien & Sánchez Alvarado 2004
+Hydra_Tentacle,P,Continuous renewal,0.92,10.1002/bies.201000066,Bosch et al. 2010
+Hydra_Tentacle,C,Wnt3 organizer,0.90,10.1002/bies.201000066,Bosch et al. 2010
+Hydra_Tentacle,S,Wnt signaling,0.85,10.1002/bies.201000066,Bosch et al. 2010
+Hydra_Tentacle,B,No fibrosis possible,0.88,10.1002/bies.201000066,Bosch et al. 2010
+Hydra_Tentacle,T,No senescence,0.95,10.1002/bies.201000066,Bosch et al. 2010
+Hydra_Tentacle,M,Basal metabolism,0.70,10.1002/bies.201000066,Bosch et al. 2010
+Deer_Antler,P,Stem cell activation,0.85,10.1002/jez.b.20275,Price et al. 2005
+Deer_Antler,C,Antler identity,0.80,10.1002/jez.b.20275,Price et al. 2005
+Deer_Antler,S,IGF-1 signaling,0.88,10.1002/jez.b.20275,Price et al. 2005
+Deer_Antler,B,Temporary fibrosis,0.72,10.1002/jez.b.20275,Price et al. 2005
+Deer_Antler,T,Controlled growth,0.82,10.1002/jez.b.20275,Price et al. 2005
+Deer_Antler,M,Extreme metabolism 2cm/day,0.90,10.1002/jez.b.20275,Price et al. 2005
+Human_Liver_Partial,P,Chromatin remodeling,0.82,10.1038/s41575-020-00376-w,Michalopoulos & Bhushan 2021
+Human_Liver_Partial,C,Mass not architecture,0.55,10.1038/s41575-020-00376-w,Michalopoulos & Bhushan 2021
+Human_Liver_Partial,S,HGF/EGF cascade,0.85,10.1038/s41575-020-00376-w,Michalopoulos & Bhushan 2021
+Human_Liver_Partial,B,Controlled fibrosis,0.68,10.1038/s41575-020-00376-w,Michalopoulos & Bhushan 2021
+Human_Liver_Partial,T,p53 regulation,0.78,10.1038/s41575-020-00376-w,Michalopoulos & Bhushan 2021
+Human_Liver_Partial,M,Metabolic driver,0.92,10.1038/s41575-020-00376-w,Michalopoulos & Bhushan 2021
