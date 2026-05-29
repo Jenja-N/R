@@ -1,0 +1,139 @@
+{
+  "model_version": "ARC_v4.0",
+  "timestamp": "2026-05-30T00:03:09.876943",
+  "loocv": {
+    "accuracy": 1.0,
+    "correct": 16,
+    "total": 16,
+    "per_system": [
+      {
+        "system": "Axolotl_Limb",
+        "phi": 0.9474,
+        "predicted": 1,
+        "actual": 1,
+        "correct": true
+      },
+      {
+        "system": "Deer_Antler",
+        "phi": 0.8916,
+        "predicted": 1,
+        "actual": 1,
+        "correct": true
+      },
+      {
+        "system": "Human_Fetal_Skin",
+        "phi": 0.8672,
+        "predicted": 1,
+        "actual": 1,
+        "correct": true
+      },
+      {
+        "system": "Human_Liver_Partial",
+        "phi": 0.8476,
+        "predicted": 1,
+        "actual": 1,
+        "correct": true
+      },
+      {
+        "system": "Human_Oral",
+        "phi": 0.6302,
+        "predicted": 1,
+        "actual": 1,
+        "correct": true
+      },
+      {
+        "system": "Human_Skin",
+        "phi": 0.2724,
+        "predicted": 0,
+        "actual": 0,
+        "correct": true
+      },
+      {
+        "system": "Hydra_Tentacle",
+        "phi": 0.9296,
+        "predicted": 1,
+        "actual": 1,
+        "correct": true
+      },
+      {
+        "system": "Mouse_Digit_P3",
+        "phi": 0.7778,
+        "predicted": 1,
+        "actual": 1,
+        "correct": true
+      },
+      {
+        "system": "Mouse_Ear_MRL",
+        "phi": 0.649,
+        "predicted": 1,
+        "actual": 1,
+        "correct": true
+      },
+      {
+        "system": "Mouse_Liver",
+        "phi": 0.8801,
+        "predicted": 1,
+        "actual": 1,
+        "correct": true
+      },
+      {
+        "system": "Naked_Mole_Rat",
+        "phi": 0.0835,
+        "predicted": 0,
+        "actual": 0,
+        "correct": true
+      },
+      {
+        "system": "Newt_Lens",
+        "phi": 0.8807,
+        "predicted": 1,
+        "actual": 1,
+        "correct": true
+      },
+      {
+        "system": "Planaria_Head",
+        "phi": 0.9367,
+        "predicted": 1,
+        "actual": 1,
+        "correct": true
+      },
+      {
+        "system": "Xenopus_St42",
+        "phi": 0.9074,
+        "predicted": 1,
+        "actual": 1,
+        "correct": true
+      },
+      {
+        "system": "Xenopus_St47",
+        "phi": 0.0878,
+        "predicted": 0,
+        "actual": 0,
+        "correct": true
+      },
+      {
+        "system": "Zebrafish_Fin",
+        "phi": 0.8828,
+        "predicted": 1,
+        "actual": 1,
+        "correct": true
+      }
+    ]
+  },
+  "independent_validation": {
+    "system": "Zebrafish_Heart",
+    "doi": "10.1016/j.devcel.2015.12.010",
+    "title": "Spatially Resolved Genome-wide Transcriptional Profiling Identifies BMP Signaling as Essential Regulator of Zebrafish Cardiomyocyte Regeneration",
+    "verified": true,
+    "layers": {
+      "P": 0.8,
+      "C": 0.7,
+      "S": 0.85,
+      "B": 0.75,
+      "T": 0.8,
+      "M": 0.7
+    },
+    "phi": 0.8552,
+    "correct": true
+  }
+}

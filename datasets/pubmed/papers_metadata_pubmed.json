@@ -1,0 +1,275 @@
+{
+  "10.1007/s00441-010-1042-0": {
+    "doi": "10.1007/s00441-010-1042-0",
+    "expected_year": 2010,
+    "keyword": "xenopus",
+    "status": "ok",
+    "title": "Unusual development of light-reflecting pigment cells in intact and regenerating tail in the periodic albino mutant of Xenopus laevis",
+    "authors": [
+      "Toshihiko Fukuzawa"
+    ],
+    "journal": "Cell and Tissue Research",
+    "year": 2010,
+    "references_count": 48,
+    "cited_by": 5,
+    "open_access": false,
+    "url": "https://doi.org/10.1007/s00441-010-1042-0",
+    "abstract": "",
+    "verified": true,
+    "verified_source": "crossref"
+  },
+  "10.1016/j.ydbio.2009.08.028": {
+    "doi": "10.1016/j.ydbio.2009.08.028",
+    "expected_year": 2009,
+    "keyword": "xenopus",
+    "status": "ok",
+    "title": "Electric currents in Xenopus tadpole tail regeneration",
+    "authors": [
+      "Brian Reid",
+      "Bing Song",
+      "Min Zhao"
+    ],
+    "journal": "Developmental Biology",
+    "year": 2009,
+    "references_count": 36,
+    "cited_by": 45,
+    "open_access": true,
+    "url": "https://doi.org/10.1016/j.ydbio.2009.08.028",
+    "abstract": "",
+    "verified": true,
+    "verified_source": "crossref"
+  },
+  "10.1016/j.anplas.2015.09.005": {
+    "doi": "10.1016/j.anplas.2015.09.005",
+    "expected_year": 2016,
+    "keyword": "human",
+    "status": "unverified",
+    "verified": false,
+    "cr_detail": "Expected year≈2016 keyword='human' | Got year=2016 title='Les cicatrices chéloïdes (première partie) : une pathologie de la cicatrisation '",
+    "ep_detail": "Expected year≈2016 keyword='human' | Got year=2016 title='[Keloid scars (part I): Clinical presentation, epidemiology, histology and patho'"
+  },
+  "10.1016/j.ejcb.2015.08.001": {
+    "doi": "10.1016/j.ejcb.2015.08.001",
+    "expected_year": 2015,
+    "keyword": "human",
+    "status": "unverified",
+    "verified": false,
+    "cr_detail": "Expected year≈2015 keyword='human' | Got year=2015 title='Fibroblast heterogeneity and its implications for engineering organotypic skin m'",
+    "ep_detail": "Expected year≈2015 keyword='human' | Got year=2015 title='Fibroblast heterogeneity and its implications for engineering organotypic skin m'"
+  },
+  "10.1093/bioinformatics/btu579": {
+    "doi": "10.1093/bioinformatics/btu579",
+    "expected_year": 2014,
+    "keyword": "naked",
+    "status": "ok",
+    "title": "The Naked Mole Rat Genome Resource: facilitating analyses of cancer and longevity-related adaptations",
+    "authors": [
+      "Michael Keane",
+      "Thomas Craig",
+      "Jessica Alföldi",
+      "Aaron M. Berlin",
+      "Jeremy Johnson"
+    ],
+    "journal": "Bioinformatics",
+    "year": 2014,
+    "references_count": 15,
+    "cited_by": 71,
+    "open_access": true,
+    "url": "https://doi.org/10.1093/bioinformatics/btu579",
+    "abstract": "<jats:title>Abstract</jats:title>\n               <jats:p>Motivation: The naked mole rat ( Heterocephalus glaber ) is an exceptionally long-lived and cancer-resistant rodent native to East Africa. Although its genome was previously sequenced, here we report a new assembly sequenced by us with substantially higher N50 values for scaffolds and contigs.</jats:p>\n               <jats:p>Results: We anal",
+    "verified": true,
+    "verified_source": "crossref"
+  },
+  "10.1002/reg2.38": {
+    "doi": "10.1002/reg2.38",
+    "expected_year": 2015,
+    "keyword": "mouse",
+    "status": "ok",
+    "title": "Principles and mechanisms of regeneration in the mouse model for wound‐induced hair follicle neogenesis",
+    "authors": [
+      "Xiaojie Wang",
+      "Tsai‐Ching Hsi",
+      "Christian Fernando Guerrero‐Juarez",
+      "Kim Pham",
+      "Kevin Cho"
+    ],
+    "journal": "Regeneration",
+    "year": 2015,
+    "references_count": 102,
+    "cited_by": 52,
+    "open_access": true,
+    "url": "https://doi.org/10.1002/reg2.38",
+    "abstract": "<jats:title>Abstract</jats:title><jats:p>Wound‐induced hair follicle neogenesis (WIHN) describes a regenerative phenomenon in adult mammalian skin wherein fully functional hair follicles regenerate de novo in the center of large excisional wounds. Originally described in rats, rabbits, sheep, and humans in 1940−1960, the WIHN phenomenon was reinvestigated in mice only recently. The process of de n",
+    "verified": true,
+    "verified_source": "crossref"
+  },
+  "10.3390/ijms17010030": {
+    "doi": "10.3390/ijms17010030",
+    "expected_year": 2015,
+    "keyword": "mouse",
+    "status": "unverified",
+    "verified": false,
+    "cr_detail": "Expected year≈2015 keyword='mouse' | Got year=2015 title='EGFR Signaling in Liver Diseases'",
+    "ep_detail": "Expected year≈2015 keyword='mouse' | Got year=2015 title='EGFR Signaling in Liver Diseases.'"
+  },
+  "10.1002/dvdy.276": {
+    "doi": "10.1002/dvdy.276",
+    "expected_year": 2021,
+    "keyword": "axolotl",
+    "status": "unverified",
+    "verified": false,
+    "cr_detail": "Expected year≈2021 keyword='axolotl' | Got year=2020 title='DNA repair during regeneration in <i>Ambystoma mexicanum</i>'",
+    "ep_detail": "Expected year≈2021 keyword='axolotl' | Got year=2021 title='DNA repair during regeneration in Ambystoma mexicanum.'"
+  },
+  "10.1016/j.ygcen.2010.04.006": {
+    "doi": "10.1016/j.ygcen.2010.04.006",
+    "expected_year": 2010,
+    "keyword": "zebrafish",
+    "status": "ok",
+    "title": "Implication of type 3 deiodinase induction in zebrafish fin regeneration",
+    "authors": [
+      "Mohamed Bouzaffour",
+      "Christine Rampon",
+      "Martine Ramaugé",
+      "Françoise Courtin",
+      "Sophie Vriz"
+    ],
+    "journal": "General and Comparative Endocrinology",
+    "year": 2010,
+    "references_count": 46,
+    "cited_by": 28,
+    "open_access": true,
+    "url": "https://doi.org/10.1016/j.ygcen.2010.04.006",
+    "abstract": "",
+    "verified": true,
+    "verified_source": "crossref"
+  },
+  "10.1016/j.jdermsci.2015.02.012": {
+    "doi": "10.1016/j.jdermsci.2015.02.012",
+    "expected_year": 2015,
+    "keyword": "human",
+    "status": "ok",
+    "title": "Transforming growth factor-β (TGF-β) signaling in healthy human fetal skin: A descriptive study",
+    "authors": [
+      "M. Walraven",
+      "R.H.J. Beelen",
+      "M.M.W. Ulrich"
+    ],
+    "journal": "Journal of Dermatological Science",
+    "year": 2015,
+    "references_count": 31,
+    "cited_by": 27,
+    "open_access": true,
+    "url": "https://doi.org/10.1016/j.jdermsci.2015.02.012",
+    "abstract": "",
+    "verified": true,
+    "verified_source": "crossref"
+  },
+  "10.4161/cc.9.18.13119": {
+    "doi": "10.4161/cc.9.18.13119",
+    "expected_year": 2010,
+    "keyword": "mouse",
+    "status": "unverified",
+    "verified": false,
+    "cr_detail": "Expected year≈2010 keyword='mouse' | Got year=2010 title='Epimorphic regeneration in mice is p53-independent'",
+    "ep_detail": "Expected year≈2010 keyword='mouse' | Got year=2010 title='Epimorphic regeneration in mice is p53-independent.'"
+  },
+  "10.1073/pnas.0906823106": {
+    "doi": "10.1073/pnas.0906823106",
+    "expected_year": 2009,
+    "keyword": "planaria",
+    "status": "ok",
+    "title": "A wound-induced Wnt expression program controls planarian regeneration polarity",
+    "authors": [
+      "Christian P. Petersen",
+      "Peter W. Reddien"
+    ],
+    "journal": "Proceedings of the National Academy of Sciences",
+    "year": 2009,
+    "references_count": 38,
+    "cited_by": 242,
+    "open_access": false,
+    "url": "https://doi.org/10.1073/pnas.0906823106",
+    "abstract": "<jats:p>\n            Regeneration requires specification of the identity of new tissues to be made. Whether this process relies only on intrinsic regulative properties of regenerating tissues or whether wound signaling provides input into tissue repatterning is not known. The head-versus-tail regeneration polarity decision in planarians, which requires Wnt signaling, provides a paradigm to study t",
+    "verified": true,
+    "verified_source": "crossref"
+  },
+  "10.1093/molbev/msv079": {
+    "doi": "10.1093/molbev/msv079",
+    "expected_year": 2015,
+    "keyword": "hydra",
+    "status": "ok",
+    "title": "A Comprehensive Transcriptomic and Proteomic Analysis of Hydra Head Regeneration",
+    "authors": [
+      "Hendrik O. Petersen",
+      "Stefanie K. Höger",
+      "Mario Looso",
+      "Tobias Lengfeld",
+      "Anne Kuhn"
+    ],
+    "journal": "Molecular Biology and Evolution",
+    "year": 2015,
+    "references_count": 150,
+    "cited_by": 121,
+    "open_access": false,
+    "url": "https://doi.org/10.1093/molbev/msv079",
+    "abstract": "",
+    "verified": true,
+    "verified_source": "crossref"
+  },
+  "10.1002/jez.b.21361": {
+    "doi": "10.1002/jez.b.21361",
+    "expected_year": 2010,
+    "keyword": "deer",
+    "status": "ok",
+    "title": "Stem cells responsible for deer antler regeneration are unable to recapitulate the process of first antler development—revealed through intradermal and subcutaneous tissue transplantation",
+    "authors": [
+      "Chunyi Li",
+      "Fuhe Yang",
+      "Stephen Haines",
+      "Haiping Zhao",
+      "Wenying Wang"
+    ],
+    "journal": "Journal of Experimental Zoology Part B: Molecular and Developmental Evolution",
+    "year": 2010,
+    "references_count": 33,
+    "cited_by": 11,
+    "open_access": true,
+    "url": "https://doi.org/10.1002/jez.b.21361",
+    "abstract": "<jats:title>Abstract</jats:title><jats:p>Antlers offer a unique model for the study of whether regeneration recapitulates development in a mammalian organ. Research, to date, supports the full recapitulation in antler, but a recent report that subcutaneously transplanted (ST) pedicle periosteum (PP) failed to induce that ectopic antler formation could argue against recapitulation, as antlerogenic ",
+    "verified": true,
+    "verified_source": "crossref"
+  },
+  "10.1097/HC9.0000000000000348": {
+    "doi": "10.1097/HC9.0000000000000348",
+    "expected_year": 2024,
+    "keyword": "human",
+    "status": "unverified",
+    "verified": false,
+    "cr_detail": "Expected year≈2024 keyword='human' | Got year=2023 title='Intrahepatic neutrophil accumulation and extracellular trap formation are associ'",
+    "ep_detail": "Expected year≈2024 keyword='human' | Got year=2024 title='Intrahepatic neutrophil accumulation and extracellular trap formation are associ'"
+  },
+  "10.1016/j.devcel.2015.12.010": {
+    "doi": "10.1016/j.devcel.2015.12.010",
+    "expected_year": 2016,
+    "keyword": "zebrafish",
+    "status": "ok",
+    "title": "Spatially Resolved Genome-wide Transcriptional Profiling Identifies BMP Signaling as Essential Regulator of Zebrafish Cardiomyocyte Regeneration",
+    "authors": [
+      "Chi-Chung Wu",
+      "Fabian Kruse",
+      "Mohankrishna Dalvoy Vasudevarao",
+      "Jan Philipp Junker",
+      "David C. Zebrowski"
+    ],
+    "journal": "Developmental Cell",
+    "year": 2016,
+    "references_count": 55,
+    "cited_by": 190,
+    "open_access": true,
+    "url": "https://doi.org/10.1016/j.devcel.2015.12.010",
+    "abstract": "",
+    "verified": true,
+    "verified_source": "crossref"
+  }
+}

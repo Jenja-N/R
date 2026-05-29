@@ -1,0 +1,52 @@
+======================================================================
+  ARC Real Data Collector (PubMed DOIs) — Validation Report
+  2026-05-30 00:03:09
+======================================================================
+
+── PAPERS (real DOIs from PubMed) ──────────────────────────────
+  Total systems    : 17
+  ✓ Verified       : 10
+  ⚠ Wrong paper    : 6
+  ✗ Not found      : 0
+
+── VERIFIED PAPERS ─────────────────────────────────────────────
+  ✓ Xenopus_St42           cited=5      'Unusual development of light-reflecting pigment ce'
+  ✓ Xenopus_St47           cited=45     'Electric currents in Xenopus tadpole tail regenera'
+  ⚠ Human_Skin             cited=0      ''
+  ⚠ Human_Oral             cited=0      ''
+  ✓ Naked_Mole_Rat         cited=71     'The Naked Mole Rat Genome Resource: facilitating a'
+  ✓ Mouse_Digit_P3         cited=52     'Principles and mechanisms of regeneration in the m'
+  ⚠ Mouse_Liver            cited=0      ''
+  ⚠ Axolotl_Limb           cited=0      ''
+  ✓ Zebrafish_Fin          cited=28     'Implication of type 3 deiodinase induction in zebr'
+  ✓ Human_Fetal_Skin       cited=27     'Transforming growth factor-β (TGF-β) signaling in '
+  ⚠ Mouse_Ear_MRL          cited=0      ''
+  ✓ Planaria_Head          cited=242    'A wound-induced Wnt expression program controls pl'
+  ✓ Hydra_Tentacle         cited=121    'A Comprehensive Transcriptomic and Proteomic Analy'
+  ✓ Deer_Antler            cited=11     'Stem cells responsible for deer antler regeneratio'
+  ⚠ Human_Liver_Partial    cited=0      ''
+  ✓ Zebrafish_Heart        cited=190    'Spatially Resolved Genome-wide Transcriptional Pro'
+
+── GEO ─────────────────────────────────────────────────────────
+  Systems searched : 10
+  Total datasets   : 41
+  Top accessions:
+    GSE243225    Axolotl_Limb           Multi-species atlas resolves an axolotl limb 
+    GSE192477    Axolotl_Limb           Systemic stem cell activation following amput
+    GSE183645    Axolotl_Limb           HDAC Inhibitor Titration of Transcription and
+    GSE107213    Axolotl_Limb           Bolitoglossa vallecula reference transcriptom
+    GSE106269    Axolotl_Limb           Single-cell analysis uncovers convergence of 
+    GSE234476    Zebrafish_Fin          Transcriptional profiles of macrophages durin
+    GSE311919    Zebrafish_Fin          Metabolic reprogramming regulates histone lac
+    GSE315989    Zebrafish_Fin          Comparative multi-omic analysis reveals conse
+
+── MODEL ───────────────────────────────────────────────────────
+  LOOCV: 16/16 = 100.0%
+  ZF heart independent val: Phi=0.855 → ✓
+
+── PROVENANCE ──────────────────────────────────────────────────
+  DOI source : real_dois_pubmed.json (PubMed E-utilities)
+  CrossRef   : https://api.crossref.org
+  Europe PMC : https://www.ebi.ac.uk/europepmc
+  NCBI GEO   : https://eutils.ncbi.nlm.nih.gov
+======================================================================

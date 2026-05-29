@@ -1,0 +1,17 @@
+system,regeneration,phi,prediction_correct,P,C,S,B,T,M,doi,paper_verified,title,year,cited_by
+Axolotl_Limb,1,0.9474,1,0.9,0.95,0.98,0.9,0.85,0.8,10.1002/dvdy.276,False,,,0
+Deer_Antler,1,0.8916,1,0.85,0.8,0.88,0.72,0.82,0.9,10.1002/jez.b.21361,True,Stem cells responsible for deer antler regeneration are unable to recapitulate the process of first antler development—r,2010.0,11
+Human_Fetal_Skin,1,0.8672,1,0.8,0.65,0.78,0.88,0.75,0.72,10.1016/j.jdermsci.2015.02.012,True,Transforming growth factor-β (TGF-β) signaling in healthy human fetal skin: A descriptive study,2015.0,27
+Human_Liver_Partial,1,0.8476,1,0.82,0.55,0.85,0.68,0.78,0.92,10.1097/HC9.0000000000000348,False,,,0
+Human_Oral,1,0.6302,1,0.6,0.56,0.65,0.75,0.5,0.6,10.1016/j.ejcb.2015.08.001,False,,,0
+Human_Skin,0,0.2724,1,0.53,0.56,0.49,0.29,0.5,0.52,10.1016/j.anplas.2015.09.005,False,,,0
+Hydra_Tentacle,1,0.9296,1,0.92,0.9,0.85,0.88,0.95,0.7,10.1093/molbev/msv079,True,A Comprehensive Transcriptomic and Proteomic Analysis of Hydra Head Regeneration,2015.0,121
+Mouse_Digit_P3,1,0.7778,1,0.75,0.7,0.8,0.65,0.7,0.72,10.1002/reg2.38,True,Principles and mechanisms of regeneration in the mouse model for wound‐induced hair follicle neogenesis,2015.0,52
+Mouse_Ear_MRL,1,0.649,1,0.72,0.6,0.7,0.55,0.65,0.68,10.4161/cc.9.18.13119,False,,,0
+Mouse_Liver,1,0.8801,1,0.85,0.6,0.9,0.7,0.8,0.95,10.3390/ijms17010030,False,,,0
+Naked_Mole_Rat,0,0.0835,1,0.4,0.3,0.25,0.35,0.02,0.3,10.1093/bioinformatics/btu579,True,The Naked Mole Rat Genome Resource: facilitating analyses of cancer and longevity-related adaptations,2014.0,71
+Newt_Lens,1,0.8807,1,0.88,0.85,0.82,0.78,0.8,0.7,,False,,,0
+Planaria_Head,1,0.9367,1,0.95,0.98,0.9,0.85,0.9,0.75,10.1073/pnas.0906823106,True,A wound-induced Wnt expression program controls planarian regeneration polarity,2009.0,242
+Xenopus_St42,1,0.9074,1,0.78,0.78,0.95,0.82,0.82,0.78,10.1007/s00441-010-1042-0,True,Unusual development of light-reflecting pigment cells in intact and regenerating tail in the periodic albino mutant of X,2010.0,5
+Xenopus_St47,0,0.0878,1,0.33,0.33,0.33,0.22,0.22,0.33,10.1016/j.ydbio.2009.08.028,True,Electric currents in Xenopus tadpole tail regeneration,2009.0,45
+Zebrafish_Fin,1,0.8828,1,0.82,0.75,0.88,0.8,0.78,0.72,10.1016/j.ygcen.2010.04.006,True,Implication of type 3 deiodinase induction in zebrafish fin regeneration,2010.0,28
