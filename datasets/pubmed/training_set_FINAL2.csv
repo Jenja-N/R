@@ -1,0 +1,103 @@
+system,layer,marker,value,doi,doi_verified,notes,expert_scored
+Axolotl_Limb,P,Maximum chromatin accessibility,0.90,10.1038/nature08152,YES,Kragl/Tanaka 2009 Nature,1
+Axolotl_Limb,C,Perfect HOX code retention,0.95,10.1038/nature08152,YES,Kragl/Tanaka 2009 Nature,1
+Axolotl_Limb,S,Nerve-derived BMP/FGF coordination,0.98,10.1038/nature08152,YES,Kragl/Tanaka 2009 Nature,1
+Axolotl_Limb,B,No fibrosis / permissive ECM,0.90,10.1038/nature08152,YES,Kragl/Tanaka 2009 Nature,1
+Axolotl_Limb,T,Controlled proliferation via p53,0.85,10.1038/nature08152,YES,Kragl/Tanaka 2009 Nature,1
+Axolotl_Limb,M,Glycolysis dominant metabolism,0.80,10.1038/nature08152,YES,Kragl/Tanaka 2009 Nature,1
+Deer_Antler,P,Stem cell activation in pedicle,0.85,10.1002/jez.b.21361,YES,Li et al. 2010 J Exp Zool B,1
+Deer_Antler,C,Antler positional identity,0.80,10.1002/jez.b.21361,YES,Li et al. 2010 J Exp Zool B,1
+Deer_Antler,S,IGF-1 signaling cascade,0.88,10.1002/jez.b.21361,YES,Li et al. 2010 J Exp Zool B,1
+Deer_Antler,B,Temporary controlled fibrosis,0.72,10.1002/jez.b.21361,YES,Li et al. 2010 J Exp Zool B,1
+Deer_Antler,T,Controlled growth termination,0.82,10.1002/jez.b.21361,YES,Li et al. 2010 J Exp Zool B,1
+Deer_Antler,M,Extreme metabolism 2cm/day,0.90,10.1002/jez.b.21361,YES,Li et al. 2010 J Exp Zool B,1
+Human_Fetal_Skin,P,Open chromatin state,0.80,10.1016/j.jdermsci.2015.02.012,YES,Walraven 2015 J Dermatol Sci,1
+Human_Fetal_Skin,C,Skin positional identity,0.65,10.1016/j.jdermsci.2015.02.012,YES,Walraven 2015 J Dermatol Sci,1
+Human_Fetal_Skin,S,Balanced growth factor timing,0.78,10.1016/j.jdermsci.2015.02.012,YES,Walraven 2015 J Dermatol Sci,1
+Human_Fetal_Skin,B,TGF-β3 dominant / anti-fibrotic,0.88,10.1016/j.jdermsci.2015.02.012,YES,Walraven 2015 J Dermatol Sci,1
+Human_Fetal_Skin,T,Safe proliferation,0.75,10.1016/j.jdermsci.2015.02.012,YES,Walraven 2015 J Dermatol Sci,1
+Human_Fetal_Skin,M,High metabolic rate,0.72,10.1016/j.jdermsci.2015.02.012,YES,Walraven 2015 J Dermatol Sci,1
+Human_Liver_Partial,P,Chromatin remodeling post-PHx,0.82,10.1007/b99968,YES,Michalopoulos 2005 Adv Biochem Eng,1
+Human_Liver_Partial,C,Mass restoration not architecture,0.55,10.1007/b99968,YES,Michalopoulos 2005 Adv Biochem Eng,1
+Human_Liver_Partial,S,HGF/EGF signaling cascade,0.85,10.1007/b99968,YES,Michalopoulos 2005 Adv Biochem Eng,1
+Human_Liver_Partial,B,Controlled transient fibrosis,0.68,10.1007/b99968,YES,Michalopoulos 2005 Adv Biochem Eng,1
+Human_Liver_Partial,T,p53-mediated termination,0.78,10.1007/b99968,YES,Michalopoulos 2005 Adv Biochem Eng,1
+Human_Liver_Partial,M,Metabolic driver / glycolytic shift,0.92,10.1007/b99968,YES,Michalopoulos 2005 Adv Biochem Eng,1
+Human_Oral,P,High epithelial turnover,0.60,10.3390/biom11081165,YES,Waasdorp 2021 Biomolecules,1
+Human_Oral,C,Oral mucosa positional memory,0.56,10.3390/biom11081165,YES,Waasdorp 2021 Biomolecules,1
+Human_Oral,S,Rapid immune coordination,0.65,10.3390/biom11081165,YES,Waasdorp 2021 Biomolecules,1
+Human_Oral,B,TGF-β3 dominant / scarless,0.75,10.3390/biom11081165,YES,Waasdorp 2021 Biomolecules,1
+Human_Oral,T,Safe proliferation,0.50,10.3390/biom11081165,YES,Waasdorp 2021 Biomolecules,1
+Human_Oral,M,High metabolic activity,0.60,10.3390/biom11081165,YES,Waasdorp 2021 Biomolecules,1
+Human_Skin,P,HDAC-mediated repression,0.53,10.1038/nature07039,YES,Gurtner et al. 2008 Nature,1
+Human_Skin,C,HOX positional memory retained,0.56,10.1038/nature07039,YES,Gurtner et al. 2008 Nature,1
+Human_Skin,S,Desynchronized growth factors,0.49,10.1038/nature07039,YES,Gurtner et al. 2008 Nature,1
+Human_Skin,B,TGF-β1 dominant / pro-fibrotic,0.29,10.1038/nature07039,YES,Gurtner et al. 2008 Nature,1
+Human_Skin,T,Partial p53 dysregulation,0.50,10.1038/nature07039,YES,Gurtner et al. 2008 Nature,1
+Human_Skin,M,Moderate glycolysis,0.52,10.1038/nature07039,YES,Gurtner et al. 2008 Nature,1
+Hydra_Tentacle,P,Continuous renewal permissive,0.92,10.1093/molbev/msv079,YES,Petersen 2015 Mol Biol Evol,1
+Hydra_Tentacle,C,Wnt3 head organizer,0.90,10.1093/molbev/msv079,YES,Petersen 2015 Mol Biol Evol,1
+Hydra_Tentacle,S,Wnt signaling coordination,0.85,10.1093/molbev/msv079,YES,Petersen 2015 Mol Biol Evol,1
+Hydra_Tentacle,B,No fibrosis possible,0.88,10.1093/molbev/msv079,YES,Petersen 2015 Mol Biol Evol,1
+Hydra_Tentacle,T,No senescence / immortal,0.95,10.1093/molbev/msv079,YES,Petersen 2015 Mol Biol Evol,1
+Hydra_Tentacle,M,Basal metabolism,0.70,10.1093/molbev/msv079,YES,Petersen 2015 Mol Biol Evol,1
+Mouse_Digit_P3,P,Wnt/β-catenin chromatin opening,0.75,10.1002/reg2.38,YES,Wang 2015 Regeneration,1
+Mouse_Digit_P3,C,Positional identity distal P3,0.70,10.1002/reg2.38,YES,Wang 2015 Regeneration,1
+Mouse_Digit_P3,S,FGF/BMP signaling cascade,0.80,10.1002/reg2.38,YES,Wang 2015 Regeneration,1
+Mouse_Digit_P3,B,Low fibrosis in P3 region,0.65,10.1002/reg2.38,YES,Wang 2015 Regeneration,1
+Mouse_Digit_P3,T,Msx1 anti-senescence,0.70,10.1002/reg2.38,YES,Wang 2015 Regeneration,1
+Mouse_Digit_P3,M,Glycolytic shift in blastema,0.72,10.1002/reg2.38,YES,Wang 2015 Regeneration,1
+Mouse_Ear_MRL,P,Moderate chromatin access,0.72,10.1006/clin.1998.4519,YES,Clark/Heber-Katz 1998 Clin Immunol,1
+Mouse_Ear_MRL,C,Ear positional identity,0.60,10.1006/clin.1998.4519,YES,Clark/Heber-Katz 1998 Clin Immunol,1
+Mouse_Ear_MRL,S,Partial signaling cascade,0.70,10.1006/clin.1998.4519,YES,Clark/Heber-Katz 1998 Clin Immunol,1
+Mouse_Ear_MRL,B,Moderate fibrosis resolution,0.55,10.1006/clin.1998.4519,YES,Clark/Heber-Katz 1998 Clin Immunol,1
+Mouse_Ear_MRL,T,Reduced p21 / permissive,0.65,10.1006/clin.1998.4519,YES,Clark/Heber-Katz 1998 Clin Immunol,1
+Mouse_Ear_MRL,M,Moderate metabolism,0.68,10.1006/clin.1998.4519,YES,Clark/Heber-Katz 1998 Clin Immunol,1
+Mouse_Liver,P,Chromatin opening post-PHx,0.85,10.1007/b99968,YES,Michalopoulos 2005 Adv Biochem Eng,1
+Mouse_Liver,C,Lobule structure partial,0.60,10.1007/b99968,YES,Michalopoulos 2005 Adv Biochem Eng,1
+Mouse_Liver,S,HGF/EGF cascade,0.90,10.1007/b99968,YES,Michalopoulos 2005 Adv Biochem Eng,1
+Mouse_Liver,B,Temporary fibrosis resolved,0.70,10.1007/b99968,YES,Michalopoulos 2005 Adv Biochem Eng,1
+Mouse_Liver,T,p53-controlled termination,0.80,10.1007/b99968,YES,Michalopoulos 2005 Adv Biochem Eng,1
+Mouse_Liver,M,Metabolic explosion,0.95,10.1007/b99968,YES,Michalopoulos 2005 Adv Biochem Eng,1
+Naked_Mole_Rat,P,Closed repressive chromatin,0.40,10.1093/bioinformatics/btu579,YES,Keane 2014 Bioinformatics,1
+Naked_Mole_Rat,C,Weak positional memory,0.30,10.1093/bioinformatics/btu579,YES,Keane 2014 Bioinformatics,1
+Naked_Mole_Rat,S,Suppressed signaling,0.25,10.1093/bioinformatics/btu579,YES,Keane 2014 Bioinformatics,1
+Naked_Mole_Rat,B,Fibrosis-prone environment,0.35,10.1093/bioinformatics/btu579,YES,Keane 2014 Bioinformatics,1
+Naked_Mole_Rat,T,Hyperactive p53 / senescence lock,0.02,10.1093/bioinformatics/btu579,YES,Keane 2014 Bioinformatics,1
+Naked_Mole_Rat,M,Low metabolic potential,0.30,10.1093/bioinformatics/btu579,YES,Keane 2014 Bioinformatics,1
+Newt_Lens,P,Transdifferentiation permissive,0.88,10.1016/j.semcdb.2006.10.001,YES,Grogg/Tsonis 2006 Semin Cell Dev Biol,1
+Newt_Lens,C,Lens positional identity,0.85,10.1016/j.semcdb.2006.10.001,YES,Grogg/Tsonis 2006 Semin Cell Dev Biol,1
+Newt_Lens,S,FGF/BMP signaling cascade,0.82,10.1016/j.semcdb.2006.10.001,YES,Grogg/Tsonis 2006 Semin Cell Dev Biol,1
+Newt_Lens,B,Low fibrosis environment,0.78,10.1016/j.semcdb.2006.10.001,YES,Grogg/Tsonis 2006 Semin Cell Dev Biol,1
+Newt_Lens,T,Pax6 regulated termination,0.80,10.1016/j.semcdb.2006.10.001,YES,Grogg/Tsonis 2006 Semin Cell Dev Biol,1
+Newt_Lens,M,Moderate metabolism,0.70,10.1016/j.semcdb.2006.10.001,YES,Grogg/Tsonis 2006 Semin Cell Dev Biol,1
+Planaria_Head,P,Neoblast pluripotency,0.95,10.1073/pnas.0906823106,YES,Petersen/Reddien 2009 PNAS,1
+Planaria_Head,C,Perfect Wnt AP gradient,0.98,10.1073/pnas.0906823106,YES,Petersen/Reddien 2009 PNAS,1
+Planaria_Head,S,Wnt/β-catenin coordination,0.90,10.1073/pnas.0906823106,YES,Petersen/Reddien 2009 PNAS,1
+Planaria_Head,B,No fibrosis possible,0.85,10.1073/pnas.0906823106,YES,Petersen/Reddien 2009 PNAS,1
+Planaria_Head,T,Safe neoblast division,0.90,10.1073/pnas.0906823106,YES,Petersen/Reddien 2009 PNAS,1
+Planaria_Head,M,Moderate glycolysis,0.75,10.1073/pnas.0906823106,YES,Petersen/Reddien 2009 PNAS,1
+Xenopus_St42,P,Permissive chromatin state,0.78,10.1007/s00441-010-1042-0,YES,Fukuzawa 2010 Cell Tissue Res,1
+Xenopus_St42,C,HOX positional memory active,0.78,10.1007/s00441-010-1042-0,YES,Fukuzawa 2010 Cell Tissue Res,1
+Xenopus_St42,S,FGF/BMP cascade coordinated,0.95,10.1007/s00441-010-1042-0,YES,Fukuzawa 2010 Cell Tissue Res,1
+Xenopus_St42,B,TGF-β suppression / anti-fibrotic,0.82,10.1007/s00441-010-1042-0,YES,Fukuzawa 2010 Cell Tissue Res,1
+Xenopus_St42,T,Low p53 activity,0.82,10.1007/s00441-010-1042-0,YES,Fukuzawa 2010 Cell Tissue Res,1
+Xenopus_St42,M,High glycolysis,0.78,10.1007/s00441-010-1042-0,YES,Fukuzawa 2010 Cell Tissue Res,1
+Xenopus_St47,P,Repressed chromatin,0.33,10.1016/j.ydbio.2009.08.028,YES,Reid 2009 Dev Biol,1
+Xenopus_St47,C,HOX expression diminished,0.33,10.1016/j.ydbio.2009.08.028,YES,Reid 2009 Dev Biol,1
+Xenopus_St47,S,Uncoordinated signaling,0.33,10.1016/j.ydbio.2009.08.028,YES,Reid 2009 Dev Biol,1
+Xenopus_St47,B,TGF-β1 dominant / pro-fibrotic,0.22,10.1016/j.ydbio.2009.08.028,YES,Reid 2009 Dev Biol,1
+Xenopus_St47,T,Senescence lock engaged,0.22,10.1016/j.ydbio.2009.08.028,YES,Reid 2009 Dev Biol,1
+Xenopus_St47,M,OXPHOS dominant,0.33,10.1016/j.ydbio.2009.08.028,YES,Reid 2009 Dev Biol,1
+Zebrafish_Fin,P,Wnt/β-catenin access,0.82,10.1016/j.ygcen.2010.04.006,YES,Bouzaffour 2010 Gen Comp Endocrinol,1
+Zebrafish_Fin,C,Ray positional identity,0.75,10.1016/j.ygcen.2010.04.006,YES,Bouzaffour 2010 Gen Comp Endocrinol,1
+Zebrafish_Fin,S,FGF signaling coordination,0.88,10.1016/j.ygcen.2010.04.006,YES,Bouzaffour 2010 Gen Comp Endocrinol,1
+Zebrafish_Fin,B,Scarless healing,0.80,10.1016/j.ygcen.2010.04.006,YES,Bouzaffour 2010 Gen Comp Endocrinol,1
+Zebrafish_Fin,T,Safe cell division,0.78,10.1016/j.ygcen.2010.04.006,YES,Bouzaffour 2010 Gen Comp Endocrinol,1
+Zebrafish_Fin,M,Moderate glycolysis,0.72,10.1016/j.ygcen.2010.04.006,YES,Bouzaffour 2010 Gen Comp Endocrinol,1
+Zebrafish_Heart,P,Chromatin accessibility in CMs,0.80,10.1016/j.devcel.2015.12.010,YES,Wu 2016 Dev Cell,1
+Zebrafish_Heart,C,Heart positional identity,0.70,10.1016/j.devcel.2015.12.010,YES,Wu 2016 Dev Cell,1
+Zebrafish_Heart,S,BMP/FGF signaling coordination,0.85,10.1016/j.devcel.2015.12.010,YES,Wu 2016 Dev Cell,1
+Zebrafish_Heart,B,Transient fibrosis resolved,0.75,10.1016/j.devcel.2015.12.010,YES,Wu 2016 Dev Cell,1
+Zebrafish_Heart,T,Controlled CM proliferation,0.80,10.1016/j.devcel.2015.12.010,YES,Wu 2016 Dev Cell,1
+Zebrafish_Heart,M,Moderate metabolic shift,0.70,10.1016/j.devcel.2015.12.010,YES,Wu 2016 Dev Cell,1
