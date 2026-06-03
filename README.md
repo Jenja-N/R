@@ -3,6 +3,9 @@
 ![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.20526831.svg)
 (https://doi.org/10.5281/zenodo.20526831)
 
+**Core insight**: Regeneration requires simultaneous activation of all six layers. Failure of any single layer collapses Φ → 0. This is why single-factor therapies fail.
+
+
 **A computational ontology and semi-quantitative scoring framework for comparative regenerative biology**
 
 > **Status:** Preprint submitted to bioRxiv (Systems Biology)  
