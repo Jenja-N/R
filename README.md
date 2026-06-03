@@ -1,9 +1,8 @@
 # ARC: Architecture of Regenerative Control
-[
 
 ![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.20526831.svg)
+(https://doi.org/10.5281/zenodo.20526831)
 
-](https://doi.org/10.5281/zenodo.20526831)
 **A computational ontology and semi-quantitative scoring framework for comparative regenerative biology**
 
 > **Status:** Preprint submitted to bioRxiv (Systems Biology)  
