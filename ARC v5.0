@@ -1,0 +1,225 @@
+# ARC-3: Pseudo-Uterine Regenerative State
+## A systems hypothesis for mammalian regeneration competence
+
+**Author:** Evgeny Kuznetsov | June 2026
+**Status:** Theoretical framework with partial empirical support
+**Contact:** [evgeny@kutala.io]
+
+---
+
+## One-sentence hypothesis
+
+Adult mammalian tissue may require temporary relocation into a protected,
+placenta-like, neuroendocrine-permissive state before bioelectric patterning
+can be executed.
+
+---
+
+## The core problem
+
+Bioelectric control of morphogenesis is well established (Levin lab, 2006–2025).
+The outstanding question for mammalian translation is not *whether* bioelectric
+signals encode positional information — they do. The question is:
+
+**Why does bioelectric intervention remain hypomorphic in adult mammalian tissue
+even when the signal is correctly applied?**
+
+ARC-3 proposes that the signal is readable, but the execution window is closed.
+Three evolutionary patches close it simultaneously, within hours of injury:
+
+1. Immune rejection of dedifferentiated cells (CD47 loss → NK surveillance)
+2. Mechanical lock (p4ha3 collagen crosslinking → ECM stiffness >10 kPa →
+   YAP/TAZ nuclear → fibrotic program)
+3. Epigenetic drift (H3K27me3 deposition → regeneration-associated loci closed)
+
+These are not failures of the bioelectric signal. They are upstream blocks that
+prevent the signal from being read.
+
+---
+
+## Empirical support for the upstream block hypothesis
+
+Transcriptomic comparison of *Acomys cahirinus* (regenerates) vs.
+*Mus musculus* (fibroses) — RNA-seq data, Kuznetsov analysis, June 2026:
+
+| Species | Top differentially expressed gene | Axis | Interpretation |
+|---------|----------------------------------|------|----------------|
+| Mus | **p4ha3** (rank #1) | Mechanical (3.3) | Collagen crosslinking = Phase 2.1 mechanical lock |
+| Acomys | **kcng1, kcnn1, kcnj14, cldn19** (ranks 11–45) | Bioelectric (3.2) | V_mem maintenance + gap junction coupling |
+
+The non-regenerating species leads with a mechanical block gene.
+The regenerating species leads with bioelectric maintenance genes.
+
+This supports the hypothesis that regeneration competence requires
+*active bioelectric maintenance* (Acomys does this; Mus does not),
+and that mechanical lock is the primary upstream failure mode in Mus.
+
+---
+
+## Three control loops of ARC-3
+
+ARC-3 does not replace bioelectric control. It asks what conditions allow
+bioelectric patterning to be executed in adult tissue.
+
+```
+┌─────────────────────────────────────────────────────┐
+│  LOOP 1: OUTER — Amniotic-like niche                │
+│  Soft ECM (<1 kPa) · sterile · low-shear · anti-   │
+│  fibrotic (ALK5i) · isolated from systemic stress   │
+│  → Prevents mechanical lock (p4ha3/LOX/YAP-TAZ)    │
+│  → Creates the physical space for bioelectric field │
+└─────────────────────┬───────────────────────────────┘
+                      │ enables
+┌─────────────────────▼───────────────────────────────┐
+│  LOOP 2: LOCAL — Placenta-like immune/metabolic     │
+│  interface                                          │
+│  IDO + Treg + PD-L1 → local immune tolerance       │
+│  M1 (0–48h) → M2 (day 3+) → anti-inflammatory     │
+│  Controlled hypoxia (pO₂ 3–5%) → HIF-1α → glycol. │
+│  → Prevents immune rejection of plastic cells      │
+│  → Maintains metabolic permissiveness              │
+└─────────────────────┬───────────────────────────────┘
+                      │ enables
+┌─────────────────────▼───────────────────────────────┐
+│  LOOP 3: INNER — Neuroendocrine + Bioelectric       │
+│  prompting                                          │
+│  Vagal stimulation → α7nAChR → IL-10 → M2          │
+│  GH/IGF-1 pulse (SWS) → progenitor proliferation   │
+│  Transient hypothyroidism → LIN28 reactivation     │
+│  V_mem maintenance (25 µV/mm) → chromatin open     │
+│  → Executes bioelectric positional program         │
+└─────────────────────────────────────────────────────┘
+```
+
+**Temporal ordering is strict:**
+Loop 1 must be established before Loop 2.
+Loop 2 must be established before Loop 3.
+Bioelectric patterning (Loop 3) fails if Loops 1–2 are not in place.
+
+---
+
+## What ARC-3 does not claim
+
+- ARC-3 does not claim to replace bioelectric control of morphogenesis.
+- ARC-3 does not claim a human-ready protocol exists.
+- ARC-3 does not claim one drug or one signal can induce full regeneration.
+- ARC-3 does not claim the neuroendocrine loop is sufficient without
+  correct bioelectric addressing.
+- ARC-3 does not claim the three loops are novel individually —
+  each has independent experimental support. The claim is that
+  *all three are necessary simultaneously*, and that this has not been
+  tested as a combined system.
+
+---
+
+## Minimal falsifiable prediction
+
+**Bioelectric modulation in adult mammalian tissue will remain hypomorphic
+unless paired with a permissive anti-fibrotic niche and transient
+competence reopening.**
+
+Operationalized:
+
+*V_mem clamping at −50 mV (25 µV/mm electrode mesh) in adult mouse
+digit-tip model will produce <20% improvement in regeneration score
+when applied without soft-matrix niche (Loop 1) and immune permission
+(Loop 2), but >80% improvement when all three loops are active
+simultaneously.*
+
+This prediction is falsifiable in both directions:
+- If V_mem alone produces >80% → Loop 1/2 are not necessary → ARC-3 is wrong.
+- If three loops produce <40% → the framework is incomplete or incorrect.
+
+---
+
+## Possible low-burden retrospective test
+
+**Question:** Do existing mouse BioDome datasets separate regeneration failures
+into mechanistically distinct categories?
+
+**Proposed classification:**
+
+| Failure type | Primary marker | ARC-3 loop responsible |
+|-------------|----------------|----------------------|
+| Fibrosis-dominant | α-SMA+, Col1a1↑, p4ha3↑ | Loop 1 failure |
+| Competence-lock | H3K27me3↑, Oct4 absent, CD47↓ | Loop 2 failure |
+| Patterning failure | V_mem unstable, HOX disorganized | Loop 3 failure |
+| Trophic/vascular | VEGF↓, NRG1↓, FGF2↓ | Loop 2/3 interface |
+
+If BioDome failure modes cluster into these four categories (not randomly),
+this would be retrospective support for ARC-3's loop structure without
+requiring a new experiment.
+
+**Data needed:** RNA-seq or immunohistochemistry from failed BioDome
+experiments, classified post-hoc by the above markers.
+
+---
+
+## Connection to Levin lab framework
+
+ARC-3 treats bioelectricity as a central coordination layer —
+consistent with Levin's bioelectric code hypothesis.
+
+The specific contribution of ARC-3 is the upstream permissive layer:
+
+```
+Levin framework:    V_mem encodes positional information
+                    → gap junctions propagate the pattern
+                    → chromatin reads the bioelectric address
+
+ARC-3 addition:     Adult mammalian tissue cannot execute this sequence
+                    because three upstream blocks prevent it.
+                    ARC-3 removes the blocks.
+                    The bioelectric program runs the morphogenesis.
+```
+
+In this framing, ARC-3 and the Levin framework are complementary,
+not competing. Levin describes *what* the signal is and *how* it
+encodes form. ARC-3 describes *why* adult mammals cannot read it
+and *what conditions* restore readability.
+
+---
+
+## Three-dimensional basis (Kuznetsov Basis v1.0)
+
+Every phenomenon in ARC-3 is located in a three-axis space:
+
+- **Axis 1 (Scale):** Cellular → Tissue → Organism
+- **Axis 2 (Time):** Hours 0–72 (Initiation) → Days 3–14 (Execution) → Day 14+ (Termination)
+- **Axis 3 (Signal carrier):** Chemical → Bioelectric → Mechanical
+
+Confirmed empirical nodes (RNA-seq, Acomys vs Mus):
+
+| Gene | Axis coordinates | Validation |
+|------|-----------------|------------|
+| p4ha3 | Scale 1.2, Time 2.1, Signal 3.3 | Mus #1 — mechanical lock confirmed |
+| kcng1 | Scale 1.1, Time 2.1–2.2, Signal 3.2 | Acomys rank 14 — bioelectric confirmed |
+| kcnn1 | Scale 1.1, Time 2.1–2.2, Signal 3.2 | Acomys rank 37 — bioelectric confirmed |
+| kcnj14 | Scale 1.1, Time 2.1–2.2, Signal 3.2 | Acomys rank 45 — bioelectric confirmed |
+| cldn19 | Scale 1.2, Time 2.1–2.2, Signal 3.2 | Acomys rank 11 — gap junction confirmed |
+
+Full gene dictionary: `arc_gene_dictionary_v2.json`
+
+---
+
+## Status and next steps
+
+| Component | Status |
+|-----------|--------|
+| Theoretical framework | Complete (ARC v5.0 preprint) |
+| Kuznetsov Basis | Defined, partially validated |
+| Empirical support (Acomys/Mus RNA-seq) | Partial — 5 genes confirmed |
+| PREDICTED genes (piezo1/2, yap1, kcnq1-5) | Require patch-clamp, AFM, ATAC-seq |
+| Combined protocol test | Not yet conducted |
+| Minimal falsifiable experiment | Defined, ready for lab execution |
+
+**The experiment that would move this from framework to finding:**
+Adult mouse digit-tip amputation.
+Three groups: V_mem alone / V_mem + soft matrix + immune permission / vehicle.
+Primary endpoint: regeneration score (µCT, day 42).
+Expected result if ARC-3 correct: group 2 > group 1 by >4×.
+
+---
+
+*ARC-3 v1.0 | Evgeny Kuznetsov | June 2026*
+*Preprint: [link] | Gene dictionary: arc_gene_dictionary_v2.json*
