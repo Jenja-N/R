@@ -1,6 +1,6 @@
 # ARC-Tooth v1.3: 
 
-*Experiment results, data, and scripts are located here: https://github.com/Jenja-N/R/tree/main/experiments*.
+*The results of the calculations for the experimental data, data, and scripts are located here: https://github.com/Jenja-N/R/tree/main/experiments*.
 
 **Repository:** Jenja-N/R  
 **Version:** ARC-Tooth v1.3 — consolidated from v1.1 (conceptual), v1.2 (empirical update), and full cross-verification across all project datasets and PDFs  
