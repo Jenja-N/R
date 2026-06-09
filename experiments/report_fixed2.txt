@@ -1,0 +1,405 @@
+﻿
+
+Путь           : D:\!jenja\ARC\DATA3\adult_pct_pos_by_condition.csv
+Размер (КБ)    : 0,67
+Дата изменения : 09.06.2026 12:58:15
+
+Путь           : D:\!jenja\ARC\DATA3\BASE_R_analyze_GEO.R
+Размер (КБ)    : 12,41
+Дата изменения : 08.06.2026 17:02:30
+
+Путь           : D:\!jenja\ARC\DATA3\COMPLETE_RIGOROUS_ANALYSIS.R
+Размер (КБ)    : 19,07
+Дата изменения : 08.06.2026 19:41:18
+
+Путь           : D:\!jenja\ARC\DATA3\dspp_positive_profile.csv
+Размер (КБ)    : 0,93
+Дата изменения : 09.06.2026 13:14:08
+
+Путь           : D:\!jenja\ARC\DATA3\EXACT_analyze_GEO_datasets.R
+Размер (КБ)    : 18,65
+Дата изменения : 08.06.2026 16:52:48
+
+Путь           : D:\!jenja\ARC\DATA3\fetal_dspp_signature.csv
+Размер (КБ)    : 1
+Дата изменения : 09.06.2026 13:14:08
+
+Путь           : D:\!jenja\ARC\DATA3\fetal_OB_vs_adult_deep.csv
+Размер (КБ)    : 1,18
+Дата изменения : 09.06.2026 12:58:15
+
+Путь           : D:\!jenja\ARC\DATA3\fetal_pct_pos_by_cluster.csv
+Размер (КБ)    : 0,93
+Дата изменения : 09.06.2026 12:58:15
+
+Путь           : D:\!jenja\ARC\DATA3\fetal_POB_vs_adult_deep.csv
+Размер (КБ)    : 1,02
+Дата изменения : 09.06.2026 13:10:36
+
+Путь           : D:\!jenja\ARC\DATA3\fetal_vs_adult.R
+Размер (КБ)    : 8,7
+Дата изменения : 09.06.2026 12:53:36
+
+Путь           : D:\!jenja\ARC\DATA3\FINAL_FIXED_v2.R
+Размер (КБ)    : 8,8
+Дата изменения : 08.06.2026 19:14:11
+
+Путь           : D:\!jenja\ARC\DATA3\FINAL_GSE185222_and_SUMMARY.R
+Размер (КБ)    : 13,2
+Дата изменения : 08.06.2026 19:05:57
+
+Путь           : D:\!jenja\ARC\DATA3\FIXED_analyze_GEO.R
+Размер (КБ)    : 8,22
+Дата изменения : 08.06.2026 18:49:26
+
+Путь           : D:\!jenja\ARC\DATA3\genie3_by_condition.RDS
+Размер (КБ)    : 4006,61
+Дата изменения : 09.06.2026 3:07:14
+
+Путь           : D:\!jenja\ARC\DATA3\GSE132472_RAW.tar
+Размер (КБ)    : 171170
+Дата изменения : 08.06.2026 16:36:21
+
+Путь           : D:\!jenja\ARC\DATA3\GSE185222_data.RDS
+Размер (КБ)    : 92672,36
+Дата изменения : 08.06.2026 21:11:13
+
+Путь           : D:\!jenja\ARC\DATA3\GSE185222_processed.RDS
+Размер (КБ)    : 146097,68
+Дата изменения : 08.06.2026 21:24:26
+
+Путь           : D:\!jenja\ARC\DATA3\NMF_GSE185222.R
+Размер (КБ)    : 12,97
+Дата изменения : 08.06.2026 20:25:32
+
+Путь           : D:\!jenja\ARC\DATA3\ob_dspp_positive_profile.csv
+Размер (КБ)    : 0,99
+Дата изменения : 09.06.2026 13:14:08
+
+Путь           : D:\!jenja\ARC\DATA3\Qwen.r
+Размер (КБ)    : 4,71
+Дата изменения : 08.06.2026 21:22:17
+
+Путь           : D:\!jenja\ARC\DATA3\Qwen10.r
+Размер (КБ)    : 3,02
+Дата изменения : 09.06.2026 13:10:28
+
+Путь           : D:\!jenja\ARC\DATA3\Qwen11.r
+Размер (КБ)    : 8,82
+Дата изменения : 09.06.2026 13:13:58
+
+Путь           : D:\!jenja\ARC\DATA3\Qwen12.r
+Размер (КБ)    : 6,01
+Дата изменения : 09.06.2026 13:20:21
+
+Путь           : D:\!jenja\ARC\DATA3\Qwen13.r
+Размер (КБ)    : 3,82
+Дата изменения : 09.06.2026 13:27:01
+
+Путь           : D:\!jenja\ARC\DATA3\Qwen2.r
+Размер (КБ)    : 8,72
+Дата изменения : 08.06.2026 21:32:05
+
+Путь           : D:\!jenja\ARC\DATA3\QWEN2_ANALYSIS.R
+Размер (КБ)    : 1,27
+Дата изменения : 09.06.2026 10:10:46
+
+Путь           : D:\!jenja\ARC\DATA3\Qwen3.r
+Размер (КБ)    : 1,81
+Дата изменения : 08.06.2026 21:33:55
+
+Путь           : D:\!jenja\ARC\DATA3\Qwen4.r
+Размер (КБ)    : 1,56
+Дата изменения : 09.06.2026 10:25:21
+
+Путь           : D:\!jenja\ARC\DATA3\Qwen5.r
+Размер (КБ)    : 1,57
+Дата изменения : 09.06.2026 10:28:04
+
+Путь           : D:\!jenja\ARC\DATA3\Qwen6.r
+Размер (КБ)    : 1,71
+Дата изменения : 09.06.2026 10:33:26
+
+Путь           : D:\!jenja\ARC\DATA3\Qwen7.r
+Размер (КБ)    : 0,33
+Дата изменения : 09.06.2026 10:36:24
+
+Путь           : D:\!jenja\ARC\DATA3\Qwen8.r
+Размер (КБ)    : 0,33
+Дата изменения : 09.06.2026 10:36:36
+
+Путь           : D:\!jenja\ARC\DATA3\Qwen9.r
+Размер (КБ)    : 7,67
+Дата изменения : 09.06.2026 12:57:54
+
+Путь           : D:\!jenja\ARC\DATA3\regulon_comparison.csv
+Размер (КБ)    : 3,2
+Дата изменения : 09.06.2026 10:11:25
+
+Путь           : D:\!jenja\ARC\DATA3\report_fixed.txt
+Размер (КБ)    : 4,88
+Дата изменения : 08.06.2026 16:49:18
+
+Путь           : D:\!jenja\ARC\DATA3\report_fixed2.txt
+Размер (КБ)    : 0
+Дата изменения : 09.06.2026 13:40:22
+
+Путь           : D:\!jenja\ARC\DATA3\tgfb_bmp_stress_comparison.csv
+Размер (КБ)    : 0,51
+Дата изменения : 09.06.2026 13:27:06
+
+Путь           : D:\!jenja\ARC\DATA3\ULTRA_FAST_BASE_R.R
+Размер (КБ)    : 8,08
+Дата изменения : 08.06.2026 18:45:02
+
+Путь           : D:\!jenja\ARC\DATA3\wnt_signaling_summary.csv
+Размер (КБ)    : 0,27
+Дата изменения : 09.06.2026 13:20:28
+
+Путь           : D:\!jenja\ARC\DATA3\embryonic tooth germ scRNA and ST\embryo.RData
+Размер (КБ)    : 466228,06
+Дата изменения : 09.06.2026 11:38:53
+
+Путь           : D:\!jenja\ARC\DATA3\embryonic tooth germ scRNA and ST\spatial.RData
+Размер (КБ)    : 73641,87
+Дата изменения : 09.06.2026 11:37:43
+
+Путь           : D:\!jenja\ARC\DATA3\Establishment of scRNA-seq atlases from mouse and human tooth\Establishment of scRNA-seq atlases from mouse and human tooth.zip
+Размер (КБ)    : 3468611,3
+Дата изменения : 09.06.2026 11:49:55
+
+Путь           : D:\!jenja\ARC\DATA3\GSE132472_extracted\GSM3868571_AM1.txt.gz
+Размер (КБ)    : 12693,95
+Дата изменения : 11.06.2019 1:18:17
+
+Путь           : D:\!jenja\ARC\DATA3\GSE132472_extracted\GSM3868572_AM2.txt.gz
+Размер (КБ)    : 12687,87
+Дата изменения : 11.06.2019 1:18:19
+
+Путь           : D:\!jenja\ARC\DATA3\GSE132472_extracted\GSM3868573_AM3.txt.gz
+Размер (КБ)    : 12669,32
+Дата изменения : 11.06.2019 1:18:23
+
+Путь           : D:\!jenja\ARC\DATA3\GSE132472_extracted\GSM3868574_AM4.txt.gz
+Размер (КБ)    : 12651,3
+Дата изменения : 11.06.2019 1:18:27
+
+Путь           : D:\!jenja\ARC\DATA3\GSE132472_extracted\GSM3868575_AM5.txt.gz
+Размер (КБ)    : 12716,04
+Дата изменения : 11.06.2019 1:18:29
+
+Путь           : D:\!jenja\ARC\DATA3\GSE132472_extracted\GSM3868576_AM6.txt.gz
+Размер (КБ)    : 12716,33
+Дата изменения : 11.06.2019 1:18:32
+
+Путь           : D:\!jenja\ARC\DATA3\GSE132472_extracted\GSM3868577_AM7.txt.gz
+Размер (КБ)    : 3159,78
+Дата изменения : 11.06.2019 1:18:33
+
+Путь           : D:\!jenja\ARC\DATA3\GSE132472_extracted\GSM3868578_AM8.txt.gz
+Размер (КБ)    : 3129,7
+Дата изменения : 11.06.2019 1:18:33
+
+Путь           : D:\!jenja\ARC\DATA3\GSE132472_extracted\GSM3868579_Normal_1.txt.gz
+Размер (КБ)    : 12630,85
+Дата изменения : 11.06.2019 1:18:36
+
+Путь           : D:\!jenja\ARC\DATA3\GSE132472_extracted\GSM3868580_Normal_2.txt.gz
+Размер (КБ)    : 12648,2
+Дата изменения : 11.06.2019 1:18:38
+
+Путь           : D:\!jenja\ARC\DATA3\GSE132472_extracted\GSM3868581_Normal_3.txt.gz
+Размер (КБ)    : 12753,45
+Дата изменения : 11.06.2019 1:18:41
+
+Путь           : D:\!jenja\ARC\DATA3\GSE132472_extracted\GSM3868582_Normal_4.txt.gz
+Размер (КБ)    : 12730,6
+Дата изменения : 11.06.2019 1:18:44
+
+Путь           : D:\!jenja\ARC\DATA3\GSE132472_extracted\GSM3868583_Normal_5.txt.gz
+Размер (КБ)    : 12652,34
+Дата изменения : 11.06.2019 1:18:46
+
+Путь           : D:\!jenja\ARC\DATA3\GSE132472_extracted\GSM3868584_Normal_6.txt.gz
+Размер (КБ)    : 12680,42
+Дата изменения : 11.06.2019 1:18:49
+
+Путь           : D:\!jenja\ARC\DATA3\GSE132472_extracted\GSM3868585_Normal_7.txt.gz
+Размер (КБ)    : 3165,63
+Дата изменения : 11.06.2019 1:18:49
+
+Путь           : D:\!jenja\ARC\DATA3\GSE132472_extracted\GSM3868586_Normal_8.txt.gz
+Размер (КБ)    : 3122,76
+Дата изменения : 11.06.2019 1:18:50
+
+Путь           : D:\!jenja\ARC\DATA3\GSE132472_extracted\GSM3868587_AMU-AM1.txt.gz
+Размер (КБ)    : 3169,85
+Дата изменения : 11.06.2019 1:18:51
+
+Путь           : D:\!jenja\ARC\DATA3\GSE132472_extracted\GSM3868588_AM7-F.txt.gz
+Размер (КБ)    : 3169,99
+Дата изменения : 11.06.2019 1:18:52
+
+Путь           : D:\!jenja\ARC\DATA3\GSE162413_RAW\GSE162413-GPL16417_series_matrix.txt.gz
+Размер (КБ)    : 3,15
+Дата изменения : 09.06.2026 11:49:03
+
+Путь           : D:\!jenja\ARC\DATA3\GSE162413_RAW\GSE162413-GPL21273_series_matrix.txt.gz
+Размер (КБ)    : 3,5
+Дата изменения : 09.06.2026 11:49:06
+
+Путь           : D:\!jenja\ARC\DATA3\GSE162413_RAW\GSE162413_family.soft.gz
+Размер (КБ)    : 3,76
+Дата изменения : 09.06.2026 11:48:50
+
+Путь           : D:\!jenja\ARC\DATA3\GSE162413_RAW\GSE162413_family.xml.tgz
+Размер (КБ)    : 4,31
+Дата изменения : 09.06.2026 11:48:57
+
+Путь           : D:\!jenja\ARC\DATA3\GSE162413_RAW\GSE162413_RAW.tar
+Размер (КБ)    : 1030310
+Дата изменения : 09.06.2026 12:21:44
+
+Путь           : D:\!jenja\ARC\DATA3\GSE167251\GSE167251_family.soft.gz
+Размер (КБ)    : 1,67
+Дата изменения : 08.06.2026 16:38:41
+
+Путь           : D:\!jenja\ARC\DATA3\GSE167251\GSE167251_family.xml.tgz
+Размер (КБ)    : 2,11
+Дата изменения : 08.06.2026 16:38:45
+
+Путь           : D:\!jenja\ARC\DATA3\GSE167251\GSE167251_RAW.tar
+Размер (КБ)    : 34490
+Дата изменения : 08.06.2026 16:38:41
+
+Путь           : D:\!jenja\ARC\DATA3\GSE167251\GSE167251_series_matrix.txt.gz
+Размер (КБ)    : 1,56
+Дата изменения : 08.06.2026 16:38:47
+
+Путь           : D:\!jenja\ARC\DATA3\GSE184749\GSE184749-GPL24676_series_matrix.txt.gz
+Размер (КБ)    : 7,81
+Дата изменения : 08.06.2026 16:32:44
+
+Путь           : D:\!jenja\ARC\DATA3\GSE184749\GSE184749-GPL30173_series_matrix.txt.gz
+Размер (КБ)    : 6,23
+Дата изменения : 08.06.2026 16:32:47
+
+Путь           : D:\!jenja\ARC\DATA3\GSE184749\GSE184749_all_data_gene_annotations.csv.gz
+Размер (КБ)    : 767,2
+Дата изменения : 08.06.2026 16:36:00
+
+Путь           : D:\!jenja\ARC\DATA3\GSE184749\GSE184749_Day0_vs_Day16_Diff_bulk_RNAseq_featurecount_result.txt.gz
+Размер (КБ)    : 5153,25
+Дата изменения : 08.06.2026 16:33:00
+
+Путь           : D:\!jenja\ARC\DATA3\GSE184749\GSE184749_day10_oe_diff_cell_annotations.csv.gz
+Размер (КБ)    : 109,72
+Дата изменения : 08.06.2026 16:36:04
+
+Путь           : D:\!jenja\ARC\DATA3\GSE184749\GSE184749_day10_oe_diff_counts.mtx.gz
+Размер (КБ)    : 37455,43
+Дата изменения : 08.06.2026 16:36:23
+
+Путь           : D:\!jenja\ARC\DATA3\GSE184749\GSE184749_day10_oe_diff_gene_annotations.csv.gz
+Размер (КБ)    : 767,21
+Дата изменения : 08.06.2026 16:36:11
+
+Путь           : D:\!jenja\ARC\DATA3\GSE184749\GSE184749_day16_am_diff_cell_annotations.csv.gz
+Размер (КБ)    : 143,99
+Дата изменения : 08.06.2026 16:36:22
+
+Путь           : D:\!jenja\ARC\DATA3\GSE184749\GSE184749_day16_am_diff_counts.mtx.gz
+Размер (КБ)    : 40773,07
+Дата изменения : 08.06.2026 16:37:18
+
+Путь           : D:\!jenja\ARC\DATA3\GSE184749\GSE184749_day16_am_diff_gene_annotations.csv.gz
+Размер (КБ)    : 767,21
+Дата изменения : 08.06.2026 16:36:43
+
+Путь           : D:\!jenja\ARC\DATA3\GSE184749\GSE184749_dental_epithelium_cell_annotations.csv.gz
+Размер (КБ)    : 97,01
+Дата изменения : 08.06.2026 16:36:43
+
+Путь           : D:\!jenja\ARC\DATA3\GSE184749\GSE184749_dental_epithelium_counts.mtx.gz
+Размер (КБ)    : 9154,52
+Дата изменения : 08.06.2026 16:36:53
+
+Путь           : D:\!jenja\ARC\DATA3\GSE184749\GSE184749_dental_epithelium_gene_annotations.csv.gz
+Размер (КБ)    : 652,79
+Дата изменения : 08.06.2026 16:36:55
+
+Путь           : D:\!jenja\ARC\DATA3\GSE184749\GSE184749_dental_mesenchyme_cell_annotations.csv.gz
+Размер (КБ)    : 89,96
+Дата изменения : 08.06.2026 16:37:02
+
+Путь           : D:\!jenja\ARC\DATA3\GSE184749\GSE184749_dental_mesenchyme_counts.mtx.gz
+Размер (КБ)    : 17828,21
+Дата изменения : 08.06.2026 16:37:20
+
+Путь           : D:\!jenja\ARC\DATA3\GSE184749\GSE184749_dental_mesenchyme_gene_annotations.csv.gz
+Размер (КБ)    : 781,69
+Дата изменения : 08.06.2026 16:37:13
+
+Путь           : D:\!jenja\ARC\DATA3\GSE184749\GSE184749_family.soft.gz
+Размер (КБ)    : 8,36
+Дата изменения : 08.06.2026 16:32:33
+
+Путь           : D:\!jenja\ARC\DATA3\GSE184749\GSE184749_family.xml.tgz
+Размер (КБ)    : 8,88
+Дата изменения : 08.06.2026 16:32:38
+
+Путь           : D:\!jenja\ARC\DATA3\GSE184749\GSE184749_How_to_load_data_into_R.txt.gz
+Размер (КБ)    : 0,98
+Дата изменения : 08.06.2026 16:33:01
+
+Путь           : D:\!jenja\ARC\DATA3\GSE185222_extracted\GSM5608427_DTP_01.csv.gz
+Размер (КБ)    : 10882,67
+Дата изменения : 04.10.2021 4:28:33
+
+Путь           : D:\!jenja\ARC\DATA3\GSE185222_extracted\GSM5608428_DTP_02.csv.gz
+Размер (КБ)    : 13424,23
+Дата изменения : 04.10.2021 4:28:36
+
+Путь           : D:\!jenja\ARC\DATA3\GSE185222_extracted\GSM5608429_DTP_04.csv.gz
+Размер (КБ)    : 13349,36
+Дата изменения : 04.10.2021 4:28:38
+
+Путь           : D:\!jenja\ARC\DATA3\GSE185222_extracted\GSM5608430_DTP_05.csv.gz
+Размер (КБ)    : 17656,79
+Дата изменения : 04.10.2021 4:28:41
+
+Путь           : D:\!jenja\ARC\DATA3\GSE185222_RAW\GSE185222_family.soft.gz
+Размер (КБ)    : 2,67
+Дата изменения : 08.06.2026 16:37:55
+
+Путь           : D:\!jenja\ARC\DATA3\GSE185222_RAW\GSE185222_family.xml.tgz
+Размер (КБ)    : 3,14
+Дата изменения : 08.06.2026 16:37:59
+
+Путь           : D:\!jenja\ARC\DATA3\GSE185222_RAW\GSE185222_RAW.tar
+Размер (КБ)    : 55320
+Дата изменения : 08.06.2026 16:38:10
+
+Путь           : D:\!jenja\ARC\DATA3\GSE185222_RAW\GSE185222_series_matrix.txt.gz
+Размер (КБ)    : 2,56
+Дата изменения : 08.06.2026 16:38:03
+
+Путь           : D:\!jenja\ARC\DATA3\GSE189381\GSE189381_family.soft.gz
+Размер (КБ)    : 2,06
+Дата изменения : 09.06.2026 11:41:50
+
+Путь           : D:\!jenja\ARC\DATA3\GSE189381\GSE189381_family.xml.tgz
+Размер (КБ)    : 2,45
+Дата изменения : 09.06.2026 11:41:54
+
+Путь           : D:\!jenja\ARC\DATA3\GSE189381\GSE189381_RAW.tar
+Размер (КБ)    : 651300
+Дата изменения : 09.06.2026 11:56:24
+
+Путь           : D:\!jenja\ARC\DATA3\GSE189381\GSE189381_series_matrix.txt.gz
+Размер (КБ)    : 1,91
+Дата изменения : 09.06.2026 11:41:57
+
+
+
+

@@ -1,0 +1,87 @@
+﻿Путь           : D:\!jenja\ARC\DATA3\GSE132472_RAW.tar
+Размер (КБ)    : 171170
+Дата изменения : 08.06.2026 16:36:21
+Путь           : D:\!jenja\ARC\DATA3\report_fixed.txt
+Размер (КБ)    : 0
+Дата изменения : 08.06.2026 16:48:42
+Путь           : D:\!jenja\ARC\DATA3\GSE167251\GSE167251_family.soft.gz
+Размер (КБ)    : 1,67
+Дата изменения : 08.06.2026 16:38:41
+Путь           : D:\!jenja\ARC\DATA3\GSE167251\GSE167251_family.xml.tgz
+Размер (КБ)    : 2,11
+Дата изменения : 08.06.2026 16:38:45
+Путь           : D:\!jenja\ARC\DATA3\GSE167251\GSE167251_RAW.tar
+Размер (КБ)    : 34490
+Дата изменения : 08.06.2026 16:38:41
+Путь           : D:\!jenja\ARC\DATA3\GSE167251\GSE167251_series_matrix.txt.gz
+Размер (КБ)    : 1,56
+Дата изменения : 08.06.2026 16:38:47
+Путь           : D:\!jenja\ARC\DATA3\GSE184749\GSE184749-GPL24676_series_matrix.txt.gz
+Размер (КБ)    : 7,81
+Дата изменения : 08.06.2026 16:32:44
+Путь           : D:\!jenja\ARC\DATA3\GSE184749\GSE184749-GPL30173_series_matrix.txt.gz
+Размер (КБ)    : 6,23
+Дата изменения : 08.06.2026 16:32:47
+Путь           : D:\!jenja\ARC\DATA3\GSE184749\GSE184749_all_data_gene_annotations.csv.gz
+Размер (КБ)    : 767,2
+Дата изменения : 08.06.2026 16:36:00
+Путь           : D:\!jenja\ARC\DATA3\GSE184749\GSE184749_Day0_vs_Day16_Diff_bulk_RNAseq_featurecount_result.txt.gz
+Размер (КБ)    : 5153,25
+Дата изменения : 08.06.2026 16:33:00
+Путь           : D:\!jenja\ARC\DATA3\GSE184749\GSE184749_day10_oe_diff_cell_annotations.csv.gz
+Размер (КБ)    : 109,72
+Дата изменения : 08.06.2026 16:36:04
+Путь           : D:\!jenja\ARC\DATA3\GSE184749\GSE184749_day10_oe_diff_counts.mtx.gz
+Размер (КБ)    : 37455,43
+Дата изменения : 08.06.2026 16:36:23
+Путь           : D:\!jenja\ARC\DATA3\GSE184749\GSE184749_day10_oe_diff_gene_annotations.csv.gz
+Размер (КБ)    : 767,21
+Дата изменения : 08.06.2026 16:36:11
+Путь           : D:\!jenja\ARC\DATA3\GSE184749\GSE184749_day16_am_diff_cell_annotations.csv.gz
+Размер (КБ)    : 143,99
+Дата изменения : 08.06.2026 16:36:22
+Путь           : D:\!jenja\ARC\DATA3\GSE184749\GSE184749_day16_am_diff_counts.mtx.gz
+Размер (КБ)    : 40773,07
+Дата изменения : 08.06.2026 16:37:18
+Путь           : D:\!jenja\ARC\DATA3\GSE184749\GSE184749_day16_am_diff_gene_annotations.csv.gz
+Размер (КБ)    : 767,21
+Дата изменения : 08.06.2026 16:36:43
+Путь           : D:\!jenja\ARC\DATA3\GSE184749\GSE184749_dental_epithelium_cell_annotations.csv.gz
+Размер (КБ)    : 97,01
+Дата изменения : 08.06.2026 16:36:43
+Путь           : D:\!jenja\ARC\DATA3\GSE184749\GSE184749_dental_epithelium_counts.mtx.gz
+Размер (КБ)    : 9154,52
+Дата изменения : 08.06.2026 16:36:53
+Путь           : D:\!jenja\ARC\DATA3\GSE184749\GSE184749_dental_epithelium_gene_annotations.csv.gz
+Размер (КБ)    : 652,79
+Дата изменения : 08.06.2026 16:36:55
+Путь           : D:\!jenja\ARC\DATA3\GSE184749\GSE184749_dental_mesenchyme_cell_annotations.csv.gz
+Размер (КБ)    : 89,96
+Дата изменения : 08.06.2026 16:37:02
+Путь           : D:\!jenja\ARC\DATA3\GSE184749\GSE184749_dental_mesenchyme_counts.mtx.gz
+Размер (КБ)    : 17828,21
+Дата изменения : 08.06.2026 16:37:20
+Путь           : D:\!jenja\ARC\DATA3\GSE184749\GSE184749_dental_mesenchyme_gene_annotations.csv.gz
+Размер (КБ)    : 781,69
+Дата изменения : 08.06.2026 16:37:13
+Путь           : D:\!jenja\ARC\DATA3\GSE184749\GSE184749_family.soft.gz
+Размер (КБ)    : 8,36
+Дата изменения : 08.06.2026 16:32:33
+Путь           : D:\!jenja\ARC\DATA3\GSE184749\GSE184749_family.xml.tgz
+Размер (КБ)    : 8,88
+Дата изменения : 08.06.2026 16:32:38
+Путь           : D:\!jenja\ARC\DATA3\GSE184749\GSE184749_How_to_load_data_into_R.txt.gz
+Размер (КБ)    : 0,98
+Дата изменения : 08.06.2026 16:33:01
+Путь           : D:\!jenja\ARC\DATA3\GSE185222_RAW\GSE185222_family.soft.gz
+Размер (КБ)    : 2,67
+Дата изменения : 08.06.2026 16:37:55
+Путь           : D:\!jenja\ARC\DATA3\GSE185222_RAW\GSE185222_family.xml.tgz
+Размер (КБ)    : 3,14
+Дата изменения : 08.06.2026 16:37:59
+Путь           : D:\!jenja\ARC\DATA3\GSE185222_RAW\GSE185222_RAW.tar
+Размер (КБ)    : 55320
+Дата изменения : 08.06.2026 16:38:10
+Путь           : D:\!jenja\ARC\DATA3\GSE185222_RAW\GSE185222_series_matrix.txt.gz
+Размер (КБ)    : 2,56
+Дата изменения : 08.06.2026 16:38:03
